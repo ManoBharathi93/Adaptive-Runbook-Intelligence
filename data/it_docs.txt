@@ -1,0 +1,53 @@
+========================================
+IT SUPPORT KNOWLEDGE BASE
+========================================
+
+## PASSWORD RESET POLICY
+- Users may request up to 3 password resets per month via self‑service.
+- After the third reset the account is flagged for security review.
+- Temporary passwords expire after 24 hours and must be changed on first login.
+- Service account password resets require approval from the owning team lead.
+- Passwords must be at least 12 characters, include uppercase, lowercase, digit, and special character.
+- Password history: last 10 passwords cannot be reused.
+- Multi‑factor authentication (MFA) must be re‑enrolled after a password reset.
+
+## ACCOUNT UNLOCK PROCEDURE
+- Accounts lock after 5 consecutive failed login attempts.
+- Tier‑1 support can unlock standard user accounts immediately.
+- Admin and service accounts require Tier‑2 approval before unlock.
+- If the account was locked due to suspected brute force, escalate to Security Operations.
+- Unlock actions are logged in the audit trail for 90 days.
+
+## VPN ACCESS MANAGEMENT
+- VPN access is granted based on role and manager approval.
+- Contractors receive time‑limited VPN tokens (max 90 days, renewable).
+- Full‑tunnel VPN is required for accessing production environments.
+- Split‑tunnel VPN is allowed for general corporate access.
+- VPN connection issues should first be triaged with: ping test → DNS check → client reinstall.
+- Persistent VPN disconnections may indicate network‑level policy conflicts; escalate to Network Engineering.
+
+## SOFTWARE INSTALLATION REQUESTS
+- Standard software catalog items can be auto‑approved for most roles.
+- Non‑catalog software requires IT Security review (SLA: 3 business days).
+- Admin/root privileges are not granted by default; exceptions need VP‑level approval.
+- Development tools (IDEs, runtimes) are pre‑approved for Engineering and Data Science roles.
+
+## EMAIL / MESSAGING ISSUES
+- If a user reports no incoming email, check mailbox quota and transport rules first.
+- Shared mailbox permission changes require the mailbox owner's approval.
+- Email outages affecting multiple users should be escalated to the Exchange / M365 team immediately.
+- Deleted emails can be recovered from the soft‑delete retention folder (14‑day window).
+
+## ESCALATION MATRIX
+- Tier 1 → Tier 2: unresolved after 30 minutes or outside Tier 1 scope.
+- Tier 2 → Tier 3: requires infrastructure changes or vendor involvement.
+- Critical Priority: respond within 15 minutes, resolve within 4 hours.
+- High Priority: respond within 30 minutes, resolve within 8 hours.
+- Medium Priority: respond within 2 hours, resolve within 24 hours.
+- Low Priority: respond within 4 hours, resolve within 48 hours.
+
+## GENERAL SECURITY GUIDELINES
+- Never share credentials over email or chat.
+- All remote sessions must use encrypted channels.
+- Report suspected phishing to security@company.com immediately.
+- USB storage devices are disabled on all corporate endpoints by default.

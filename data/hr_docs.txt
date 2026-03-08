@@ -1,0 +1,60 @@
+========================================
+HR POLICY & PROCEDURES MANUAL
+========================================
+
+## LEAVE POLICY
+- Annual Leave: 20 days per year for full‑time employees; pro‑rated for part‑time.
+- Sick Leave: 10 days per year; medical certificate required for absences > 3 consecutive days.
+- Emergency Leave: up to 5 days for immediate‑family emergencies; manager approval required within 24 hours.
+- Parental Leave: 12 weeks paid (birth parent), 4 weeks paid (non‑birth parent).
+- Unpaid Leave: may be granted for up to 30 days with VP approval.
+- Leave requests must be submitted at least 5 business days in advance (except emergencies).
+- Leave balance is visible in the HR self‑service portal.
+
+## PAYROLL PROCEDURES
+- Pay cycle: bi‑weekly (every other Friday).
+- Overtime is calculated at 1.5× for hours exceeding 40/week (non‑exempt employees).
+- Payroll discrepancies must be reported within 30 days of the affected pay date.
+- Corrections are processed in the next pay cycle after approval.
+- Direct deposit changes take one pay cycle to become effective.
+- Bonus payouts follow the quarterly performance review schedule.
+
+## ONBOARDING PROCESS
+- Offer letter and background check must be completed before Day 1.
+- Day 1 checklist: badge provisioning, system account creation, workstation setup, orientation session.
+- IT accounts (email, VPN, SSO) should be provisioned 2 business days before start date.
+- Mandatory training modules must be completed within the first 14 days:
+  * Security Awareness
+  * Code of Conduct
+  * Data Privacy (GDPR / CCPA)
+  * Anti‑Harassment
+
+## BENEFITS ENROLLMENT
+- Open enrollment occurs annually in November.
+- New hires have a 30‑day enrollment window starting from their hire date.
+- Plans available: Medical (PPO / HMO), Dental, Vision, Life Insurance, 401(k).
+- Changes outside open enrollment require a qualifying life event (marriage, birth, etc.).
+- Benefits questions should be directed to benefits@company.com or the HR portal.
+
+## WORKPLACE CONDUCT
+- All employees must adhere to the Code of Conduct policy.
+- Harassment of any kind is strictly prohibited and subject to disciplinary action.
+- Complaints can be filed through the Ethics Hotline (anonymous) or directly with HR.
+- Investigation SLA: acknowledgment within 2 business days, resolution within 30 days.
+- Retaliation against complainants is a terminable offense.
+
+## PERFORMANCE MANAGEMENT
+- Reviews occur quarterly with a formal annual review in Q4.
+- Performance Improvement Plans (PIPs) last 60 days with bi‑weekly check‑ins.
+- Promotion eligibility requires at least 12 months in current role with "Exceeds Expectations" rating.
+
+## OFFBOARDING
+- Resignation notice: 2 weeks minimum (4 weeks for Director+).
+- Exit interview conducted by HR on the last working day.
+- IT access revocation within 1 hour of the employee's last day.
+- Final paycheck includes accrued leave balance (where legally required).
+
+## ESCALATION FOR HR TICKETS
+- Standard HR tickets (leave, payroll questions): resolved by HR Operations within 2 business days.
+- Sensitive matters (complaints, investigations): routed to Employee Relations, handled confidentially.
+- Executive‑level matters: escalated to CHRO directly.

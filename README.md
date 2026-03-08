@@ -4,6 +4,7 @@
 
 ---
 
+
 ## Why This Exists
 
 Modern LLM-based automation has a blind spot: **every request is treated as a cold start.** Even if the system has successfully resolved the same category of issue 100 times, it still:
@@ -68,6 +69,9 @@ Modern LLM-based automation has a blind spot: **every request is treated as a co
 **The core insight:** We are not making the model smarter. We are making the **system** smarter.
 
 ---
+
+
+
 
 ## Architecture
 
@@ -267,4 +271,13 @@ The architecture is **provider-agnostic** and **integration-ready**. The agent p
 > One success could be a fluke. Three successes with ≥80% success rate gives statistical confidence. The threshold is configurable.
 
 ---
+
+### Results:
+<img width="1534" height="453" alt="image" src="https://github.com/user-attachments/assets/c55cadd1-02a8-40de-8d90-5c4dfbb47c8a" />
+
+<img width="1466" height="837" alt="image" src="https://github.com/user-attachments/assets/bfdb5985-8d6f-4cb3-ad83-aeb7a37e186a" />
+
+### Link to article:
+https://medium.com/@immanobharathi21/why-should-ai-re-solve-the-same-problem-every-time-6d102f114043
+
 
